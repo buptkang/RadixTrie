@@ -1,16 +1,15 @@
-Radix tree version of Trie Data Structure (C#)
-
+**Radix tree version of Trie Data Structure (C#)**
+===============================
 Functional Operation Of Trie: Insert, Delete, LoopUp.
 
 TrieNode Key:   List<int>  "0,1,2,4"
 TrieNode Value: String,  e.g "Kang"
-
+-------------------------------
 Computational Complexity:
 
-Time Analysis:  Same to Trie, theta(k) where k is the length of lookup sequence
+- Time Analysis:  Same to Trie, theta(k) where k is the length of lookup sequence
 
-Space Analysis: Less space to store encoding sequences in compared to Trie. 
-
+- Space Analysis: Less space to store encoding sequences in compared to Trie. 
 
 How to: Run the Unit Test File TestRadixTrie.cs To Use It. 
 
