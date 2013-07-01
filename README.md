@@ -7,7 +7,7 @@ TrieNode Value: String,  e.g "Kang"
 
 Computational Complexity:
 
-- Time Analysis:  Same to Trie, theta(k) where k is the length of lookup sequence
+- Time Analysis:  Same to Trie, THETA(k) where k is the length of lookup sequence
 
 - Space Analysis: Less space to store encoding sequences in compared to Trie. 
 
